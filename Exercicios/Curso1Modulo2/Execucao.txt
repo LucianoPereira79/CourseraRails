@@ -1,0 +1,199 @@
+seulup@Lup-Ubuntu-VM:~$ subl
+seulup@Lup-Ubuntu-VM:~$ sudo apt-get update -y[sudo] senha para seulup: 
+Ign:1 http://dl.google.com/linux/chrome/deb stable InRelease
+Atingido:2 http://br.archive.ubuntu.com/ubuntu xenial InRelease                
+Atingido:3 http://dl.google.com/linux/chrome/deb stable Release                
+Obter:4 http://security.ubuntu.com/ubuntu xenial-security InRelease [94,5 kB]  
+Obter:5 http://br.archive.ubuntu.com/ubuntu xenial-updates InRelease [95,7 kB] 
+Ign:6 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial InRelease       
+Atingido:7 http://ppa.launchpad.net/webupd8team/sublime-text-3/ubuntu xenial InRelease
+Ign:8 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial Release         
+Atingido:9 http://br.archive.ubuntu.com/ubuntu xenial-backports InRelease
+Ign:10 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 Packages
+Ign:11 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main i386 Packages
+Ign:12 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main all Packages
+Ign:13 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_PT
+Ign:14 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt
+Ign:15 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_BR
+Ign:17 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-en
+Ign:18 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 DEP-11 Metadata
+Obter:19 http://security.ubuntu.com/ubuntu xenial-security/main amd64 Packages [121 kB]
+Ign:20 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main DEP-11 64x64 Icons
+Ign:10 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 Packages
+Obter:21 http://br.archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages [315 kB]
+Ign:11 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main i386 Packages
+Ign:12 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main all Packages
+Obter:22 http://security.ubuntu.com/ubuntu xenial-security/main i386 Packages [118 kB]
+Ign:13 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_PT
+Ign:14 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt
+Obter:23 http://br.archive.ubuntu.com/ubuntu xenial-updates/main i386 Packages [311 kB]
+Ign:15 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_BR
+Obter:24 http://br.archive.ubuntu.com/ubuntu xenial-updates/main Translation-en [119 kB]
+Ign:17 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-en
+Ign:18 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 DEP-11 Metadata
+Obter:25 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 Packages [293 kB]
+Ign:20 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main DEP-11 64x64 Icons
+Ign:10 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 Packages
+Obter:26 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe i386 Packages [290 kB]
+Obter:27 http://security.ubuntu.com/ubuntu xenial-security/main Translation-en [46,6 kB]
+Ign:11 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main i386 Packages
+Ign:12 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main all Packages
+Ign:13 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_PT
+Ign:14 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt
+Obter:28 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe Translation-en [98,8 kB]
+Ign:15 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_BR
+Obter:29 http://br.archive.ubuntu.com/ubuntu xenial-updates/multiverse amd64 Packages [4.688 B]
+Ign:17 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-en
+Obter:30 http://security.ubuntu.com/ubuntu xenial-security/main amd64 DEP-11 Metadata [44,4 kB]
+Ign:18 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 DEP-11 Metadata
+Ign:20 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main DEP-11 64x64 Icons
+Obter:31 http://security.ubuntu.com/ubuntu xenial-security/main DEP-11 64x64 Icons [50,8 kB]
+Ign:10 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 Packages
+Obter:32 http://security.ubuntu.com/ubuntu xenial-security/universe amd64 Packages [35,7 kB]
+Ign:11 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main i386 Packages
+Ign:12 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main all Packages
+Ign:13 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_PT
+Ign:14 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt
+Ign:15 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_BR
+Ign:17 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-en
+Ign:18 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 DEP-11 Metadata
+Ign:20 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main DEP-11 64x64 Icons
+Obter:33 http://security.ubuntu.com/ubuntu xenial-security/universe i386 Packages [35,6 kB]
+Obter:34 http://security.ubuntu.com/ubuntu xenial-security/universe Translation-en [21,5 kB]
+Ign:10 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 Packages
+Obter:35 http://security.ubuntu.com/ubuntu xenial-security/universe amd64 DEP-11 Metadata [2.329 B]
+Ign:11 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main i386 Packages
+Ign:12 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main all Packages
+Ign:13 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_PT
+Ign:14 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt
+Ign:15 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_BR
+Ign:17 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-en
+Ign:18 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 DEP-11 Metadata
+Ign:20 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main DEP-11 64x64 Icons
+Err:10 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 Packages
+  404  Not Found
+Err:11 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main i386 Packages
+  404  Not Found
+Ign:12 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main all Packages
+Ign:13 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_PT
+Ign:14 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt
+Ign:15 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-pt_BR
+Ign:17 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main Translation-en
+Ign:18 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main amd64 DEP-11 Metadata
+Ign:20 http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial/main DEP-11 64x64 Icons
+Obtidos 2.099 kB em 12s (168 kB/s)                                             
+W: The repository 'http://ppa.launchpad.net/chris-lea/node.js/ubuntu xenial Release' does not have a Release file.
+N: Data from such a repository can't be authenticated and is therefore potentially dangerous to use.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+E: Failed to fetch http://ppa.launchpad.net/chris-lea/node.js/ubuntu/dists/xenial/main/binary-amd64/Packages  404  Not Found
+E: Failed to fetch http://ppa.launchpad.net/chris-lea/node.js/ubuntu/dists/xenial/main/binary-i386/Packages  404  Not Found
+E: Falhou o download de alguns ficheiros de índice. Foram ignorados ou os antigos foram usados em seu lugar.
+E: Não foi possível obter acesso exclusivo a /var/lib/dpkg/lock - open (11: Recurso indisponível temporariamente)
+E: Não foi possível obter acesso exclusivo ao directório de administração (/var/lib/dpkg/), outro processo está a utilizá-lo?
+seulup@Lup-Ubuntu-VM:~$ gem install rspec
+Fetching: diff-lcs-1.2.5.gem (100%)
+Successfully installed diff-lcs-1.2.5
+Fetching: rspec-support-3.5.0.gem (100%)
+Successfully installed rspec-support-3.5.0
+Fetching: rspec-mocks-3.5.0.gem (100%)
+Successfully installed rspec-mocks-3.5.0
+Fetching: rspec-expectations-3.5.0.gem (100%)
+Successfully installed rspec-expectations-3.5.0
+Fetching: rspec-core-3.5.1.gem (100%)
+Successfully installed rspec-core-3.5.1
+Fetching: rspec-3.5.0.gem (100%)
+Successfully installed rspec-3.5.0
+6 gems installed
+seulup@Lup-Ubuntu-VM:~$ gem install rspec-its
+Fetching: rspec-its-1.2.0.gem (100%)
+Successfully installed rspec-its-1.2.0
+1 gem installed
+seulup@Lup-Ubuntu-VM:~$ subl
+seulup@Lup-Ubuntu-VM:~$ dir
+Desktop     examples.desktop  Modelos  Público	       Vídeos
+Documentos  Imagens	      Música   Transferências
+seulup@Lup-Ubuntu-VM:~$ cd Documentos/
+seulup@Lup-Ubuntu-VM:~/Documentos$ cd Git/
+seulup@Lup-Ubuntu-VM:~/Documentos/Git$ cd CourseraRails/
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails$ cd Curso1Modulo2
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2$ cd fullstack-course1-module2/
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2$ cd Assignments/
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments$ cd lesson01
+bash: cd: lesson01: Ficheiro ou directoria inexistente
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments$ dir
+Lesson01-Assignment01-Case-Statement  Lesson03-Assignment01-Classes
+Lesson02-Assignment01-Collections
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments$ cd lesson01-assigment01-Case-statement
+bash: cd: lesson01-assigment01-Case-statement: Ficheiro ou directoria inexistente
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments$ cd Lesson01-Assigment01-Case-Statement
+bash: cd: Lesson01-Assigment01-Case-Statement: Ficheiro ou directoria inexistente
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments$ cd Lesson01-Assignment01-Case-Statement
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement$ cd student-start/
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start$ ruby
+ module2_lesson1_formative.rb 
+I guess nothing matched... But why?
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start$ rspe
+c
+.FFFF
+
+Failures:
+
+  1) lesson1 check implementation remove if clause
+     Failure/Error: expect(srcCode).not_to include("if")
+       expected "some_var = \"false\"\nanother_var = \"nil\"\n\nif some_var == \"pink elephant\"\n  puts \"Don't thin...\"Looks like this one should execute\"\n\nelse\n  puts \"I guess nothing matched... But why?\"\nend" not to include "if"
+     # ./spec/lesson1_spec.rb:18:in `block (3 levels) in <top (required)>'
+
+  2) lesson1 check implementation remove elsif clause
+     Failure/Error: expect(srcCode).not_to include("elsif")
+       expected "some_var = \"false\"\nanother_var = \"nil\"\n\nif some_var == \"pink elephant\"\n  puts \"Don't thin...\"Looks like this one should execute\"\n\nelse\n  puts \"I guess nothing matched... But why?\"\nend" not to include "elsif"
+     # ./spec/lesson1_spec.rb:22:in `block (3 levels) in <top (required)>'
+
+  3) lesson1 check implementation remove elsif clause
+     Failure/Error: expect(srcCode).not_to include("elsif")
+       expected "some_var = \"false\"\nanother_var = \"nil\"\n\nif some_var == \"pink elephant\"\n  puts \"Don't thin...\"Looks like this one should execute\"\n\nelse\n  puts \"I guess nothing matched... But why?\"\nend" not to include "elsif"
+     # ./spec/lesson1_spec.rb:26:in `block (3 levels) in <top (required)>'
+
+  4) lesson1 check implementation missing case
+     Failure/Error: expect(srcCode).to include("case")
+     
+       expected "some_var = \"false\"\nanother_var = \"nil\"\n\nif some_var == \"pink elephant\"\n  puts \"Don't thin...\"Looks like this one should execute\"\n\nelse\n  puts \"I guess nothing matched... But why?\"\nend" to include "case"
+       Diff:
+       @@ -1,2 +1,16 @@
+       -case
+       +some_var = "false"
+       +another_var = "nil"
+       +
+       +if some_var == "pink elephant"
+       +  puts "Don't think about the pink elephant!"
+       +
+       +elsif another_var.nil?
+       +  puts "Question mark in the method name?"
+       +
+       +elsif some_var == false
+       +  puts "Looks like this one should execute"
+       +
+       +else
+       +  puts "I guess nothing matched... But why?"
+       +end
+       
+     # ./spec/lesson1_spec.rb:30:in `block (3 levels) in <top (required)>'
+
+Finished in 0.05679 seconds (files took 0.14517 seconds to load)
+5 examples, 4 failures
+
+Failed examples:
+
+rspec ./spec/lesson1_spec.rb:17 # lesson1 check implementation remove if clause
+rspec ./spec/lesson1_spec.rb:21 # lesson1 check implementation remove elsif clause
+rspec ./spec/lesson1_spec.rb:25 # lesson1 check implementation remove elsif clause
+rspec ./spec/lesson1_spec.rb:29 # lesson1 check implementation missing case
+
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start$ ruby module2_lesson1_formative.rb 
+I guess nothing matched... But why?
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start$ rspec
+.....
+
+Finished in 0.00254 seconds (files took 0.13973 seconds to load)
+5 examples, 0 failures
+
+seulup@Lup-Ubuntu-VM:~/Documentos/Git/CourseraRails/Curso1Modulo2/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start$ 
